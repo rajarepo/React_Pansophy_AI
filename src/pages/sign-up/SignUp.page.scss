@@ -1,0 +1,69 @@
+
+   .min-height{
+  min-height: 100vh;
+  height: 100vh;
+//   padding: 10px;
+//   overflow-y: auto;
+   }
+.title{
+
+    font-family: 'Poppins', sans-serif !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: #FFFFFF;
+}
+.subtitle{
+    font-family: 'Poppins', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #6C757D;
+}
+.input{
+    background: #0C0E0F;
+    border: 1px solid #16191F;
+    border-radius: 8px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #6C757D;
+
+}
+.form-label{
+    font-family: 'Poppins', sans-serif !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+}
+.text-red-600{
+    font-family: 'Poppins', sans-serif !important;
+    color: #F2555A !important;
+    text-align: end;
+}
+.submitButton{
+    background: #023E8A;
+    border-radius: 8px;
+    font-family: 'Poppins', sans-serif !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.cancelButton{
+    background: #08090A;
+    border: 1px solid #16191F;
+    border-radius: 8px;
+    font-family: 'Poppins', sans-serif !important;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+}

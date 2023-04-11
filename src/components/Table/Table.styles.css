@@ -1,0 +1,15 @@
+.table-parent {
+  border-width: 1px;
+  background-color: #0c0d0f;
+  border-color: #16191f;
+}
+
+th div,
+td div {
+  border-bottom-width: 1px;
+  border-color: #16191f;
+}
+
+th div {
+    color: #6C757D;
+}

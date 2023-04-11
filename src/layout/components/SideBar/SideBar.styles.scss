@@ -1,0 +1,31 @@
+.sidebar {
+  min-height: calc(100vh - 6rem);
+  min-height: 100vh;
+  height: 100vh;
+  overflow-y: auto;
+
+  .qr__code {
+    padding: 20px;
+  }
+}
+
+.sublinks {
+  padding: 0;
+  margin: 0;
+  padding-bottom: 5px;
+
+  li {
+    padding: 4px 0 0 46px;
+
+    li {
+      padding: 0 0 0 20px;
+    }
+  }
+}
+.swapicon{
+  background: #0C0D0F;
+  border: 1px solid #16191F;
+  border-radius: 32px;
+  padding: 4px;
+  margin: 10px 20px 10px 10px;
+}
