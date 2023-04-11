@@ -1,0 +1,45 @@
+.setting-card{
+    background: #0C0D0F;
+    border: 1px solid #16191F;
+    border-radius: 8px;
+}
+.setting-label{
+    font-family: 'Poppins', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #6C757D;
+}
+.setting-input{
+    font-family: 'Poppins', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #FFFFFF;
+    text-align: left;
+}
+.setting-divider{
+    
+    border: 1px solid #16191F;
+    // border-radius: 8px;
+
+}
+.ant-card-body{
+    padding: 0px !important;
+}
+.setting-status{
+    font-family: 'Poppins', sans-serif !important;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #F2555A;
+    text-align: left;
+
+}   
+.bg-status{
+    background: rgba(242, 85, 90, 0.12);
+    border-radius: 6px;
+}
